@@ -6,13 +6,19 @@ This is the data repository for 2019 Novel Coronavirus COVID-19. Predicted by  D
 
 This git contains these data:
 
-- our prediction about population size who is confirmed to suffer from COVID-19.
-- data for lockout
-- data for resumption of work
+- "predict-results" gives our prediction about population size who is confirmed to suffer from COVID-19.
+
+- "lockout" gives data about lockout
+
+- "resumption" gives data about resumption of work
+
+- "R_values" gives the Effective Reproductive Number (R-value) determined by temperature and humidity for the global Coronavirus (COVID-19) pandemic. 
+
+  [Click here](https://ssrn.com/abstract=3551767) to read the following paper for more information about the method of R-value calculation
 
 ### **Range:**
 
-The countries we have predicted include `Korea`, `Japan`, `Iran`, `Italy`, `America`, `German`, `Switzerland`, `Sweden`, `Spain`, `Spain`, `the U.K.`, `Netherland`,  `Belgium`, `Greece`, `Singapore`, `Philippine`,`Norway`,`Austria`,`Austrialia`,`Pakistan`,`Brazil`,`Denmark`,`Canada`,`Luxembourg`,`Malaysia`,`Thailand`,`Russia`.
+The countries we have predicted include `Korea`, `Japan`, `Iran`, `Italy`, `America`, `German`, `Switzerland`, `Sweden`, `Spain`, `Spain`, `the U.K.`, `Netherland`,  `Belgium`, `Greece`, `Singapore`, `Philippine`,`Norway`,`Austria`,`Austrialia`,`Pakistan`,`Brazil`,`Denmark`,`Canada`,`Luxembourg`,`Malaysia`,`Thailand`,`Russia`,`France`,`Ireland`,`Portugal`,`Turkey`,`Israel`,`Estonia`,`Czech`,`Slovenia`,`Finland`,`Bahrain`.
 
 ### Our Website:
 
